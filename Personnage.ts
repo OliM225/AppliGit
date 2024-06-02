@@ -3,6 +3,7 @@ type Personnage = {
     classe:string,
     points:number,
     force:string
+    test:number
 }
 
 export default Personnage
